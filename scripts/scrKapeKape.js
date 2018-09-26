@@ -23,6 +23,7 @@ var categorias = [
   {codigo: 9, nombre: 'Bebidas Calientes', nombreCorto: 'Calientes', opcionMenu: 3},
   {codigo: 10, nombre: 'Cervezas', nombreCorto: 'Cervezas', opcionMenu: 3},
   {codigo: 11, nombre: 'Bebidas Alcoholicas', nombreCorto: 'Licores', opcionMenu: 3},
+  {codigo: 12, nombre: 'Bebidas de cafe', nombreCorto: 'cafe', opcionMenu: 3},
 ];
 
 var entradasDulces = [

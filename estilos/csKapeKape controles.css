@@ -1,0 +1,70 @@
+img {
+    max-width: 100%;
+    height: 100px;
+    width: 125px;
+}
+
+.botonPlatilloQuitar{
+    background-color:black;
+    color:navy;
+    font-size:medium;
+    font-weight:500;
+}
+.botonPlatilloQuitar:hover{
+    background-color:black;
+    color:navy;
+}
+
+.botonPlatillo {
+    background-color: lightgray;
+    color: navy;
+    font-size: large;
+    font-weight:700;
+}
+.botonPlatillo:hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+.opcionMenuPrincipal {
+    background-color: black;
+    color: aliceblue;
+    font-size:x-large;
+    font-weight:900;
+}
+.opcionMenuPrincipal:hover {
+    background-color: lightgray;
+    color: navy;
+    animation-delay: 5s;
+    animation: infinite;
+    animation-name: movearound;
+}
+
+.opcionMenuPrincipalSel {
+    background-color: lightgray;
+    color: navy;
+    font-size:x-large;
+    font-weight:900;
+}
+
+.filaNombre {
+  background-color: lightgray;
+  color: navy;
+  font-size:large;
+  font-weight:900;
+}
+
+.filtros {
+  background-color: lightgray;
+  color: navy;
+  font-size:xx-large;
+  font-weight:900;
+}
+
+.plato {
+    width: 100%;
+    border: 1px groove lightGrey;
+}
+.plato:hover {
+    box-shadow: 2px 3px #888888;
+}
